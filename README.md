@@ -4,7 +4,7 @@
 **rakib06/rakib06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Evaly as a Machine Learning Engineer and I was a Software Engineer at Genuity Systems 
+- 🔭 A Software Engineer
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on Data Science and Web/API development 
 - 🤔 I’m looking for help with DevOps 
