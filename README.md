@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Data Science and Web/API development 
 - 🤔 I’m looking for help with DevOps 
 - 💬 Ask me about Machine Learning and Data Science 
-- 📫 How to reach me: rakibul.hsn47@gmail.com
+- 📫 How to reach me: rakibul.hsn47@gmail.com, rakibul.hasan@bracits.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Will add later
 
