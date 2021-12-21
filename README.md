@@ -11,5 +11,5 @@
 - 💬 Ask me about Machine Learning and Data Science 
 - 📫 How to reach me: rakibul.hsn47@gmail.com, rakibul.hasan@bracits.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Will add later
+- ⚡ Fun fact: I hate java -_- 
 
