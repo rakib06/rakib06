@@ -17,7 +17,7 @@
 
 
 
-### Hi there It's Rakibul, 👋
+### Hi there, it's Rakibul 👋
 
 <!--
 **rakib06/rakib06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
